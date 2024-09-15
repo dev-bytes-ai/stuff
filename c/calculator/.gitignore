@@ -1,0 +1,13 @@
+# Object files
+*.o
+
+# Executable files
+calculator
+
+# Backup files
+*~
+
+# Compiled source
+*.out
+*.exe
+
